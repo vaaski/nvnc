@@ -1,1 +1,4 @@
 node_modules
+saved/*.command
+saved/*.sh
+.DS_Store

@@ -35,7 +35,7 @@ getPort().then(async (vncProxyPort) => {
   const params = {
     host: "localhost",
     port: vncProxyPort.toString(),
-    autoconnect: "false",
+    autoconnect: "true",
     resize: "scale",
     quality: "5",
     compression: "5",
