@@ -1,7 +1,14 @@
 {
+  "name": "nvnc",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
   "dependencies": {
     "@maximegris/node-websockify": "^1.0.4",
-    "http-server": "^14.1.1",
+    "chalk": "^5.0.1",
+    "express": "^4.18.1",
+    "get-port": "^6.1.2",
     "open": "^8.4.0"
   }
 }
