@@ -36,6 +36,7 @@ getPort().then(async (vncProxyPort) => {
     host: "localhost",
     port: vncProxyPort.toString(),
     autoconnect: "true",
+    show_dot: "true",
     resize: "scale",
     quality: "5",
     compression: "5",
