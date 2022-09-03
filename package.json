@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@maximegris/node-websockify": "^1.0.7",
+    "http-server": "^14.1.1",
+    "open": "^8.4.0"
+  }
+}
