@@ -1,4 +1,5 @@
 node_modules
 saved/*.command
 saved/*.sh
+saved/*.cmd
 .DS_Store
